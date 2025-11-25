@@ -198,7 +198,7 @@ INSERT INTO package_tracking (tracking_number, carrier, status, current_location
 + AI Framework: Google ADK
 + Database: PostgreSQL (Supabase)
 + LLM: Google Gemini 2.5 Flash Lite
-+ Memory: InMemoryMemoryService with persistence
++ Memory: DataBaseMemoryService with persistence
 + Communication: A2A Protocol
 
 ** **
